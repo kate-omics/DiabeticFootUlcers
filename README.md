@@ -1,8 +1,3 @@
-Here’s your **ready-to-paste single-file `README.md`** — formatted exactly like your sample (minimal separators, emojis, and color via badges). It keeps everything concise and well-structured for GitHub rendering.
-
-
----
-
 ## 🌍 Project Summary
 
 > 🧠 **Goal:** To explore molecular signatures of chronic non-healing wounds by identifying **differentially expressed genes**, **protein–protein interaction (PPI) networks**, and **ligand–receptor signaling pairs** in diabetic foot ulcer (DFU) vs. diabetic foot skin (DFS) samples.
@@ -130,6 +125,5 @@ Outputs are stored in `DFU/results/`.
 | `TOP_N_HUBS`       | Nodes displayed in hub visualization | 100            |
 | `STRICT_SCORE`     | Score filter for exports             | 850            |
 | `RESULTS_DIR`      | Output directory                     | `DFU/results/` |
-
 
 ---
